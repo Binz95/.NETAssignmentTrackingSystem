@@ -1,0 +1,6 @@
+C:\Users\ccs\Documents\Visual Studio 2017\Projects\AssignmentTrackingSystemLibrary\AssignmentTrackingSystemLibrary\obj\Debug\AssignmentTrackingSystemLibrary.csprojAssemblyReference.cache
+C:\Users\ccs\Documents\Visual Studio 2017\Projects\AssignmentTrackingSystemLibrary\AssignmentTrackingSystemLibrary\obj\Debug\AssignmentTrackingSystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ccs\Documents\Visual Studio 2017\Projects\AssignmentTrackingSystemLibrary\AssignmentTrackingSystemLibrary\bin\Debug\AssignmentTrackingSystemLibrary.dll
+C:\Users\ccs\Documents\Visual Studio 2017\Projects\AssignmentTrackingSystemLibrary\AssignmentTrackingSystemLibrary\bin\Debug\AssignmentTrackingSystemLibrary.pdb
+C:\Users\ccs\Documents\Visual Studio 2017\Projects\AssignmentTrackingSystemLibrary\AssignmentTrackingSystemLibrary\obj\Debug\AssignmentTrackingSystemLibrary.dll
+C:\Users\ccs\Documents\Visual Studio 2017\Projects\AssignmentTrackingSystemLibrary\AssignmentTrackingSystemLibrary\obj\Debug\AssignmentTrackingSystemLibrary.pdb
